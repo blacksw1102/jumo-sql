@@ -1,6 +1,6 @@
 # self_order_system_sql
 
-self_order_system 프로젝트의 sql 파일 관리용 레포지토리입니다.
+self_order_system 프로젝트의 sql 파일 관리용 리포지토리입니다.
 
 # 목록
 
